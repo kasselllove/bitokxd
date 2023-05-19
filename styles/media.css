@@ -1,0 +1,124 @@
+@media screen and (max-width: 1100px) {
+    .hero-sides{
+        flex-direction: column-reverse;
+        text-align: center;
+    }
+
+    .logo{
+        text-align: center;
+    }
+
+    .hero-right{
+        margin: 0 auto;
+    }
+
+    .hero-inwrapper{
+        background-image: none;
+        padding: 72px 0 74px;
+    }
+
+    h1{
+        font-size: 44px;
+    }
+
+    h1 img{
+        width: 162px;
+    }
+
+    .hero-left button{
+        padding: 25px 131px;
+        font-size: 22px;
+    }
+
+    .dn{
+        display: block;
+    }
+
+    .db{
+        display: none;
+    }
+
+    h3{
+        font-size: 34px;
+    }
+
+    .one-m-sides{
+        display: block;
+        text-align: center;
+    }
+
+    .one-m-right img{
+        margin: 0 auto;
+    }
+
+    .protocol-sides{
+        flex-direction: column-reverse;
+        text-align: center;
+    }
+
+    .server img{
+        margin: 0 auto;
+    }
+
+    .df{
+        flex-direction: column;
+    }
+
+    .w50{
+        width: auto;
+    }
+
+    .login{
+        text-align: center;
+    }
+
+    h5{
+        font-size: 24px;
+    }
+
+    .login p{
+        font-size: 16px;
+    }
+
+    .login-1-right-right{
+        display: flex;
+        margin-top: 20px;
+    }
+
+    .footer h4{
+        font-size: 34px;
+    }
+
+    .login-btns-right{
+        margin: 0 auto;
+    }
+}
+
+@media screen and (max-width: 1200px){
+    .server-sides{
+        flex-direction: column;
+    }
+
+    .server-left{
+        width: 100%;
+    }
+
+    .server-left img{
+        width: 45%;
+    }
+
+    .server-right{
+        width: 100%;
+        margin-top: 10px;
+    }
+
+    .server-right img{
+        width: 45%;
+    }
+}
+
+@media screen and (max-width: 650px){
+    .protocol-example{
+        width: 100%;
+    }
+}
